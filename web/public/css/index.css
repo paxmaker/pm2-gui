@@ -184,6 +184,8 @@ body {
   min-width: 100px;
   background-color: #41497a;
   opacity: 0.8;
+  height: 250px;
+  overflow-y: scroll;
 }
 
 .polar-usage .chooser.open .dropdown-menu:before {
